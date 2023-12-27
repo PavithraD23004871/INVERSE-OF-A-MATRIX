@@ -27,7 +27,8 @@ B=np.linalg.inv(A)
 print(B)
 ``````
 ## Output:
-https://github.com/PavithraD23004871/RANK-OF-A-MATRIX
+![maths ex 3](https://github.com/PavithraD23004871/INVERSE-OF-A-MATRIX/assets/138955967/26cd979b-ab0f-40d4-a6b0-0ba88ef767fe)
+
 
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
